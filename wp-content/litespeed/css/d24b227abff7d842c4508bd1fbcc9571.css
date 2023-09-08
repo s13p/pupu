@@ -1,0 +1,116 @@
+.elementor-kit-13 {
+    --e-global-color-primary: #4be2f2;
+    --e-global-color-secondary: #fff;
+    --e-global-color-text: #e4e4e4;
+    --e-global-color-accent: #61ce70;
+    --e-global-color-37a0295: #000233;
+    --e-global-color-d5a1089: #4be2f2;
+    --e-global-color-d40664e: #041423;
+    --e-global-color-35fee04: #080808;
+    --e-global-color-67c7c58: #FFFFFFB8;
+    --e-global-color-b461437: #071316;
+    --e-global-typography-primary-font-family: "Gilroy";
+    --e-global-typography-primary-font-weight: 400;
+    --e-global-typography-secondary-font-family: "Gilroy";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Gilroy";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Gilroy";
+    --e-global-typography-accent-font-weight: 400;
+    --e-global-typography-1034f8d-font-family: "Audiowide";
+    --e-global-typography-1034f8d-font-size: 27px;
+    --e-global-typography-1034f8d-font-weight: 600;
+    --e-preloader-animation-duration: 1.5s;
+    --e-preloader-delay: 0ms;
+    --e-preloader-color: var(--e-global-color-secondary);
+    --e-preloader-size: 60px
+}
+
+.elementor-kit-13 a {
+    color: var(--e-global-color-secondary);
+    font-family: "Gilroy", Sans-serif;
+    font-weight: 400
+}
+
+.elementor-kit-13 a:hover {
+    color: var(--e-global-color-text)
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1140px
+}
+
+.e-con {
+    --container-max-width: 1140px
+}
+
+.elementor-widget:not(:last-child) {
+    margin-bottom: 20px
+}
+
+.elementor-element {
+    --widgets-spacing: 20px
+}
+
+    {}
+
+h1.entry-title {
+    display: var(--page-title-display)
+}
+
+.elementor-kit-13 e-page-transition {
+    background-color: transparent;
+    background-image: linear-gradient(183deg, var(--e-global-color-d40664e) 0%, #0f3d42 100%)
+}
+
+.site-header {
+    padding-inline-end: 0px;
+    padding-inline-start: 0px
+}
+
+@media(max-width:1024px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 1024px
+    }
+
+    .e-con {
+        --container-max-width: 1024px
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 767px
+    }
+
+    .e-con {
+        --container-max-width: 767px
+    }
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto;
+    src: url('https://0xfreelance.io/wp-content/uploads/2023/07/Gilroy-Medium.ttf') format('truetype')
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 300;
+    font-display: auto;
+    src: url('https://0xfreelance.io/wp-content/uploads/2023/07/Gilroy-Light.ttf') format('truetype')
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-display: auto;
+    src: url('https://0xfreelance.io/wp-content/uploads/2023/07/Gilroy-Semibold.ttf') format('truetype')
+}
