@@ -12,6 +12,7 @@
     --margin-top: 10px;
     --margin-right: 0px;
     --margin-bottom: 0px;
+
     --margin-left: 0px
 }
 
@@ -105,7 +106,7 @@
 
 .elementor-246 .elementor-element.elementor-element-803aeaf .elementor-nav-menu--dropdown li:not(:last-child) {
     border-style: solid;
-    border-color: #4BE2F238;
+    border-color: #fcfcfc38;
     border-bottom-width: 1px
 }
 
@@ -139,7 +140,7 @@
 }
 
 .elementor-246 .elementor-element.elementor-element-7fd6736 .elementor-social-icon {
-    background-color: #00000000
+    background-color: #fcfcfc00
 }
 
 .elementor-246 .elementor-element.elementor-element-7fd6736 .elementor-social-icon i {
@@ -173,13 +174,13 @@
     font-weight: 600;
     fill: var(--e-global-color-d40664e);
     color: var(--e-global-color-d40664e);
-    background-color: #4be2f2;
+    background-color: #fcfcfc;
     border-radius: 8px
 }
 
 .elementor-246 .elementor-element.elementor-element-e879b06 .elementor-button:hover,
 .elementor-246 .elementor-element.elementor-element-e879b06 .elementor-button:focus {
-    background-color: #4BE2F2E0
+    background-color: #fcfcfcE0
 }
 
 .elementor-246 .elementor-element.elementor-element-d09eae1 {
@@ -284,7 +285,7 @@
 
 .elementor-246 .elementor-element.elementor-element-3ba3b9a:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-3ba3b9a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #071417
+    background-color: #323232
 }
 
 .elementor-246 .elementor-element.elementor-element-3ba3b9a,
@@ -304,9 +305,8 @@
 
 .elementor-246 .elementor-element.elementor-element-5f724a2:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-5f724a2>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: var(--e-bg-lazyload-loaded);
-    --e-bg-lazyload: url("https://0xfreelance.io/wp-content/uploads/2023/07/intro-bg.webp");
-    background-size: contain
+
+    background-size: cover
 }
 
 .elementor-246 .elementor-element.elementor-element-5f724a2,
@@ -330,7 +330,7 @@
 }
 
 .elementor-246 .elementor-element.elementor-element-848da56 .elementor-heading-title {
-    color: #00acd3;
+    color: #ffffff;
     font-family: "Gilroy", Sans-serif;
     font-size: 19px;
     font-weight: 400
@@ -703,8 +703,8 @@
     --border-width-right: 1px;
     --border-width-bottom: 1px;
     --border-width-left: 1px;
-    border-color: #4BE2F273;
-    --border-color: #4BE2F273;
+    border-color: #fcfcfc73;
+    --border-color: #fcfcfc73;
     --border-radius: 10px;
     --border-top-left-radius: 10px;
     --border-top-right-radius: 10px;
@@ -806,8 +806,8 @@
     --border-width-right: 1px;
     --border-width-bottom: 1px;
     --border-width-left: 1px;
-    border-color: #4BE2F273;
-    --border-color: #4BE2F273;
+    border-color: #fcfcfc73;
+    --border-color: #fcfcfc73;
     --border-radius: 10px;
     --border-top-left-radius: 10px;
     --border-top-right-radius: 10px;
@@ -909,8 +909,8 @@
     --border-width-right: 1px;
     --border-width-bottom: 1px;
     --border-width-left: 1px;
-    border-color: #4BE2F273;
-    --border-color: #4BE2F273;
+    border-color: #fcfcfc73;
+    --border-color: #fcfcfc73;
     --border-radius: 10px;
     --border-top-left-radius: 10px;
     --border-top-right-radius: 10px;
@@ -1025,8 +1025,8 @@
     --border-width-right: 1px;
     --border-width-bottom: 1px;
     --border-width-left: 1px;
-    border-color: #4BE2F273;
-    --border-color: #4BE2F273;
+    border-color: #fcfcfc73;
+    --border-color: #fcfcfc73;
     --border-radius: 10px;
     --border-top-left-radius: 10px;
     --border-top-right-radius: 10px;
@@ -1103,8 +1103,8 @@
     --background-transition: .3s;
     border-style: solid;
     --border-style: solid;
-    border-color: #4BE2F229;
-    --border-color: #4BE2F229;
+    border-color: #fcfcfc29;
+    --border-color: #fcfcfc29;
     --border-radius: 22px;
     --border-top-left-radius: 22px;
     --border-top-right-radius: 22px;
@@ -1227,7 +1227,7 @@
 .elementor-246 .elementor-element.elementor-element-b7b36df>.elementor-motion-effects-container>.elementor-motion-effects-layer:before {
     --background-overlay: '';
     background-color: transparent;
-    background-image: linear-gradient(44deg, #4BE2F287 0%, var(--e-global-color-35fee04) 31%)
+    background-image: linear-gradient(44deg, #fcfcfc87 0%, var(--e-global-color-35fee04) 31%)
 }
 
 .elementor-246 .elementor-element.elementor-element-456a780 {
@@ -1235,8 +1235,8 @@
     --background-transition: .3s;
     border-style: solid;
     --border-style: solid;
-    border-color: #4BE2F229;
-    --border-color: #4BE2F229;
+    border-color: #fcfcfc29;
+    --border-color: #fcfcfc29;
     --border-radius: 22px;
     --border-top-left-radius: 22px;
     --border-top-right-radius: 22px;
@@ -1381,8 +1381,8 @@
     --background-transition: .3s;
     border-style: solid;
     --border-style: solid;
-    border-color: #4BE2F294;
-    --border-color: #4BE2F294;
+    border-color: #fcfcfc94;
+    --border-color: #fcfcfc94;
     --border-radius: 15px;
     --border-top-left-radius: 15px;
     --border-top-right-radius: 15px;
@@ -1483,11 +1483,11 @@
 
 .elementor-246 .elementor-element.elementor-element-107ecea:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-107ecea>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #4BE2F2DE
+    background-color: #fcfcfcDE
 }
 
 .elementor-246 .elementor-element.elementor-element-107ecea:hover {
-    background-color: #4BE2F296
+    background-color: #fcfcfc96
 }
 
 .elementor-246 .elementor-element.elementor-element-107ecea,
@@ -1705,7 +1705,7 @@
 
 .elementor-246 .elementor-element.elementor-element-6fc29dc:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-6fc29dc>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #4BE2F21C
+    background-color: #fcfcfc1C
 }
 
 .elementor-246 .elementor-element.elementor-element-6fc29dc:hover {
@@ -1917,7 +1917,7 @@
 
 .elementor-246 .elementor-element.elementor-element-ed9098c:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-ed9098c>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #4BE2F21C
+    background-color: #fcfcfc1C
 }
 
 .elementor-246 .elementor-element.elementor-element-ed9098c:hover {
@@ -2129,7 +2129,7 @@
 
 .elementor-246 .elementor-element.elementor-element-1795569:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-1795569>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #4BE2F21C
+    background-color: #fcfcfc1C
 }
 
 .elementor-246 .elementor-element.elementor-element-1795569:hover {
@@ -2341,7 +2341,7 @@
 
 .elementor-246 .elementor-element.elementor-element-72e29b5:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-72e29b5>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #4BE2F21C
+    background-color: #fcfcfc1C
 }
 
 .elementor-246 .elementor-element.elementor-element-72e29b5:hover {
@@ -2622,7 +2622,7 @@
 
 .elementor-246 .elementor-element.elementor-element-0db0a92:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-0db0a92>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #4BE2F21C
+    background-color: #fcfcfc1C
 }
 
 .elementor-246 .elementor-element.elementor-element-0db0a92:hover {
@@ -2835,8 +2835,8 @@
     --background-transition: .3s;
     border-style: solid;
     --border-style: solid;
-    border-color: #4BE2F294;
-    --border-color: #4BE2F294;
+    border-color: #fcfcfc94;
+    --border-color: #fcfcfc94;
     --border-radius: 15px;
     --border-top-left-radius: 15px;
     --border-top-right-radius: 15px;
@@ -2937,11 +2937,11 @@
 
 .elementor-246 .elementor-element.elementor-element-0a10dd4:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-0a10dd4>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #4BE2F2DE
+    background-color: #fcfcfcDE
 }
 
 .elementor-246 .elementor-element.elementor-element-0a10dd4:hover {
-    background-color: #4BE2F296
+    background-color: #fcfcfc96
 }
 
 .elementor-246 .elementor-element.elementor-element-0a10dd4,
@@ -3055,7 +3055,7 @@
 
 .elementor-246 .elementor-element.elementor-element-79972fc:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-79972fc>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #4BE2F21C
+    background-color: #fcfcfc1C
 }
 
 .elementor-246 .elementor-element.elementor-element-79972fc:hover {
@@ -3175,7 +3175,7 @@
 
 .elementor-246 .elementor-element.elementor-element-94fb206:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-94fb206>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #4BE2F21C
+    background-color: #fcfcfc1C
 }
 
 .elementor-246 .elementor-element.elementor-element-94fb206:hover {
@@ -3295,7 +3295,7 @@
 
 .elementor-246 .elementor-element.elementor-element-9f85363:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-9f85363>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #4BE2F21C
+    background-color: #fcfcfc1C
 }
 
 .elementor-246 .elementor-element.elementor-element-9f85363:hover {
@@ -3415,7 +3415,7 @@
 
 .elementor-246 .elementor-element.elementor-element-7f638db:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-7f638db>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #4BE2F21C
+    background-color: #fcfcfc1C
 }
 
 .elementor-246 .elementor-element.elementor-element-7f638db:hover {
@@ -3541,7 +3541,7 @@
 
 .elementor-246 .elementor-element.elementor-element-812db42:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-812db42>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #4BE2F21C
+    background-color: #fcfcfc1C
 }
 
 .elementor-246 .elementor-element.elementor-element-812db42:hover {
@@ -3601,8 +3601,8 @@
     --background-transition: .3s;
     border-style: solid;
     --border-style: solid;
-    border-color: #4BE2F294;
-    --border-color: #4BE2F294;
+    border-color: #fcfcfc94;
+    --border-color: #fcfcfc94;
     --border-radius: 15px;
     --border-top-left-radius: 15px;
     --border-top-right-radius: 15px;
@@ -4319,8 +4319,8 @@
     --background-transition: .3s;
     border-style: solid;
     --border-style: solid;
-    border-color: #4BE2F294;
-    --border-color: #4BE2F294;
+    border-color: #fcfcfc94;
+    --border-color: #fcfcfc94;
     --border-radius: 15px;
     --border-top-left-radius: 15px;
     --border-top-right-radius: 15px;
@@ -5037,8 +5037,8 @@
     --background-transition: .3s;
     border-style: solid;
     --border-style: solid;
-    border-color: #4BE2F294;
-    --border-color: #4BE2F294;
+    border-color: #fcfcfc94;
+    --border-color: #fcfcfc94;
     --border-radius: 15px;
     --border-top-left-radius: 15px;
     --border-top-right-radius: 15px;
@@ -5815,8 +5815,8 @@
     --border-width-right: 1px;
     --border-width-bottom: 1px;
     --border-width-left: 1px;
-    border-color: #4BE2F2D9;
-    --border-color: #4BE2F2D9;
+    border-color: #fcfcfcD9;
+    --border-color: #fcfcfcD9;
     --border-radius: 16px;
     --border-top-left-radius: 16px;
     --border-top-right-radius: 16px;
@@ -5858,8 +5858,8 @@
     --border-width-right: 1px;
     --border-width-bottom: 1px;
     --border-width-left: 1px;
-    border-color: #4BE2F2D9;
-    --border-color: #4BE2F2D9;
+    border-color: #fcfcfcD9;
+    --border-color: #fcfcfcD9;
     --border-radius: 16px;
     --border-top-left-radius: 16px;
     --border-top-right-radius: 16px;
@@ -7613,7 +7613,7 @@
 .elementor-246 .elementor-element.elementor-element-89652ed:not(.elementor-motion-effects-element-type-background),
 .elementor-246 .elementor-element.elementor-element-89652ed>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-color: transparent;
-    background-image: radial-gradient(at center center, #4BE2F252 0%, var(--e-global-color-35fee04) 43%)
+    background-image: radial-gradient(at center center, #fcfcfc52 0%, var(--e-global-color-35fee04) 43%)
 }
 
 .elementor-246 .elementor-element.elementor-element-89652ed,
@@ -7680,8 +7680,8 @@
     --border-width-right: 1px;
     --border-width-bottom: 1px;
     --border-width-left: 1px;
-    border-color: #4BE2F22E;
-    --border-color: #4BE2F22E;
+    border-color: #fcfcfc2E;
+    --border-color: #fcfcfc2E;
     --border-radius: 16px;
     --border-top-left-radius: 16px;
     --border-top-right-radius: 16px;
@@ -7781,18 +7781,18 @@
 }
 
 .elementor-246 .elementor-element.elementor-element-f97359f.elementor-view-stacked .elementor-icon:hover {
-    background-color: #4BE2F291
+    background-color: #fcfcfc91
 }
 
 .elementor-246 .elementor-element.elementor-element-f97359f.elementor-view-framed .elementor-icon:hover,
 .elementor-246 .elementor-element.elementor-element-f97359f.elementor-view-default .elementor-icon:hover {
-    color: #4BE2F291;
-    border-color: #4BE2F291
+    color: #fcfcfc91;
+    border-color: #fcfcfc91
 }
 
 .elementor-246 .elementor-element.elementor-element-f97359f.elementor-view-framed .elementor-icon:hover,
 .elementor-246 .elementor-element.elementor-element-f97359f.elementor-view-default .elementor-icon:hover svg {
-    fill: #4BE2F291
+    fill: #fcfcfc91
 }
 
 .elementor-246 .elementor-element.elementor-element-f97359f .elementor-icon {
@@ -7820,8 +7820,8 @@
     --border-width-right: 0px;
     --border-width-bottom: 0px;
     --border-width-left: 0px;
-    border-color: #4BE2F23D;
-    --border-color: #4BE2F23D;
+    border-color: #fcfcfc3D;
+    --border-color: #fcfcfc3D;
     --border-radius: 0px;
     --border-top-left-radius: 0px;
     --border-top-right-radius: 0px;
@@ -7905,8 +7905,8 @@
     --border-width-right: 0px;
     --border-width-bottom: 0px;
     --border-width-left: 0px;
-    border-color: #4BE2F23D;
-    --border-color: #4BE2F23D;
+    border-color: #fcfcfc3D;
+    --border-color: #fcfcfc3D;
     --border-radius: 0px;
     --border-top-left-radius: 0px;
     --border-top-right-radius: 0px;
@@ -7990,8 +7990,8 @@
     --border-width-right: 0px;
     --border-width-bottom: 0px;
     --border-width-left: 0px;
-    border-color: #4BE2F23D;
-    --border-color: #4BE2F23D;
+    border-color: #fcfcfc3D;
+    --border-color: #fcfcfc3D;
     --border-radius: 0px;
     --border-top-left-radius: 0px;
     --border-top-right-radius: 0px;
@@ -8075,8 +8075,8 @@
     --border-width-right: 0px;
     --border-width-bottom: 0px;
     --border-width-left: 0px;
-    border-color: #4BE2F23D;
-    --border-color: #4BE2F23D;
+    border-color: #fcfcfc3D;
+    --border-color: #fcfcfc3D;
     --border-radius: 0px;
     --border-top-left-radius: 0px;
     --border-top-right-radius: 0px;
@@ -8142,7 +8142,7 @@
 }
 
 .elementor-246 .elementor-element.elementor-element-8162ca9 .elementor-heading-title {
-    color: #4be2f2;
+    color: #fcfcfc;
     font-family: "Gilroy", Sans-serif;
     font-size: 17px;
     font-weight: 400
@@ -8177,8 +8177,8 @@
     --border-width-right: 1px;
     --border-width-bottom: 1px;
     --border-width-left: 1px;
-    border-color: #4BE2F22E;
-    --border-color: #4BE2F22E;
+    border-color: #fcfcfc2E;
+    --border-color: #fcfcfc2E;
     --border-radius: 16px;
     --border-top-left-radius: 16px;
     --border-top-right-radius: 16px;
@@ -8279,18 +8279,18 @@
 }
 
 .elementor-246 .elementor-element.elementor-element-7396d07.elementor-view-stacked .elementor-icon:hover {
-    background-color: #4BE2F291
+    background-color: #fcfcfc91
 }
 
 .elementor-246 .elementor-element.elementor-element-7396d07.elementor-view-framed .elementor-icon:hover,
 .elementor-246 .elementor-element.elementor-element-7396d07.elementor-view-default .elementor-icon:hover {
-    color: #4BE2F291;
-    border-color: #4BE2F291
+    color: #fcfcfc91;
+    border-color: #fcfcfc91
 }
 
 .elementor-246 .elementor-element.elementor-element-7396d07.elementor-view-framed .elementor-icon:hover,
 .elementor-246 .elementor-element.elementor-element-7396d07.elementor-view-default .elementor-icon:hover svg {
-    fill: #4BE2F291
+    fill: #fcfcfc91
 }
 
 .elementor-246 .elementor-element.elementor-element-7396d07 .elementor-icon {
@@ -8323,8 +8323,8 @@
     --border-width-right: 0px;
     --border-width-bottom: 0px;
     --border-width-left: 0px;
-    border-color: #4BE2F23D;
-    --border-color: #4BE2F23D;
+    border-color: #fcfcfc3D;
+    --border-color: #fcfcfc3D;
     --border-radius: 0px;
     --border-top-left-radius: 0px;
     --border-top-right-radius: 0px;
@@ -8398,33 +8398,33 @@
 }
 
 .elementor-246 .elementor-element.elementor-element-eab8137.elementor-view-stacked .elementor-icon {
-    background-color: #4be2f2
+    background-color: #fcfcfc
 }
 
 .elementor-246 .elementor-element.elementor-element-eab8137.elementor-view-framed .elementor-icon,
 .elementor-246 .elementor-element.elementor-element-eab8137.elementor-view-default .elementor-icon {
-    color: #4be2f2;
-    border-color: #4be2f2
+    color: #fcfcfc;
+    border-color: #fcfcfc
 }
 
 .elementor-246 .elementor-element.elementor-element-eab8137.elementor-view-framed .elementor-icon,
 .elementor-246 .elementor-element.elementor-element-eab8137.elementor-view-default .elementor-icon svg {
-    fill: #4be2f2
+    fill: #fcfcfc
 }
 
 .elementor-246 .elementor-element.elementor-element-eab8137.elementor-view-stacked .elementor-icon:hover {
-    background-color: #4BE2F291
+    background-color: #fcfcfc91
 }
 
 .elementor-246 .elementor-element.elementor-element-eab8137.elementor-view-framed .elementor-icon:hover,
 .elementor-246 .elementor-element.elementor-element-eab8137.elementor-view-default .elementor-icon:hover {
-    color: #4BE2F291;
-    border-color: #4BE2F291
+    color: #fcfcfc91;
+    border-color: #fcfcfc91
 }
 
 .elementor-246 .elementor-element.elementor-element-eab8137.elementor-view-framed .elementor-icon:hover,
 .elementor-246 .elementor-element.elementor-element-eab8137.elementor-view-default .elementor-icon:hover svg {
-    fill: #4BE2F291
+    fill: #fcfcfc91
 }
 
 .elementor-246 .elementor-element.elementor-element-eab8137 .elementor-icon {
@@ -8457,8 +8457,8 @@
     --border-width-right: 0px;
     --border-width-bottom: 0px;
     --border-width-left: 0px;
-    border-color: #4BE2F23D;
-    --border-color: #4BE2F23D;
+    border-color: #fcfcfc3D;
+    --border-color: #fcfcfc3D;
     --border-radius: 0px;
     --border-top-left-radius: 0px;
     --border-top-right-radius: 0px;
@@ -8532,18 +8532,18 @@
 }
 
 .elementor-246 .elementor-element.elementor-element-9ef7cbd.elementor-view-stacked .elementor-icon:hover {
-    background-color: #4BE2F291
+    background-color: #fcfcfc91
 }
 
 .elementor-246 .elementor-element.elementor-element-9ef7cbd.elementor-view-framed .elementor-icon:hover,
 .elementor-246 .elementor-element.elementor-element-9ef7cbd.elementor-view-default .elementor-icon:hover {
-    color: #4BE2F291;
-    border-color: #4BE2F291
+    color: #fcfcfc91;
+    border-color: #fcfcfc91
 }
 
 .elementor-246 .elementor-element.elementor-element-9ef7cbd.elementor-view-framed .elementor-icon:hover,
 .elementor-246 .elementor-element.elementor-element-9ef7cbd.elementor-view-default .elementor-icon:hover svg {
-    fill: #4BE2F291
+    fill: #fcfcfc91
 }
 
 .elementor-246 .elementor-element.elementor-element-9ef7cbd .elementor-icon {
@@ -8576,8 +8576,8 @@
     --border-width-right: 0px;
     --border-width-bottom: 0px;
     --border-width-left: 0px;
-    border-color: #4BE2F23D;
-    --border-color: #4BE2F23D;
+    border-color: #fcfcfc3D;
+    --border-color: #fcfcfc3D;
     --border-radius: 0px;
     --border-top-left-radius: 0px;
     --border-top-right-radius: 0px;
@@ -8635,8 +8635,8 @@
     --border-width-right: 0px;
     --border-width-bottom: 0px;
     --border-width-left: 0px;
-    border-color: #4BE2F23D;
-    --border-color: #4BE2F23D;
+    border-color: #fcfcfc3D;
+    --border-color: #fcfcfc3D;
     --border-radius: 0px;
     --border-top-left-radius: 0px;
     --border-top-right-radius: 0px;
@@ -8694,8 +8694,8 @@
     --border-width-right: 0px;
     --border-width-bottom: 0px;
     --border-width-left: 0px;
-    border-color: #4BE2F23D;
-    --border-color: #4BE2F23D;
+    border-color: #fcfcfc3D;
+    --border-color: #fcfcfc3D;
     --border-radius: 0px;
     --border-top-left-radius: 0px;
     --border-top-right-radius: 0px;
@@ -9251,8 +9251,8 @@
     --border-width-right: 1px;
     --border-width-bottom: 1px;
     --border-width-left: 1px;
-    border-color: #4BE2F28F;
-    --border-color: #4BE2F28F;
+    border-color: #fcfcfc8F;
+    --border-color: #fcfcfc8F;
     --border-radius: 19px;
     --border-top-left-radius: 19px;
     --border-top-right-radius: 19px;
@@ -9313,8 +9313,8 @@
     --border-width-right: 1px;
     --border-width-bottom: 1px;
     --border-width-left: 1px;
-    border-color: #4BE2F28F;
-    --border-color: #4BE2F28F;
+    border-color: #fcfcfc8F;
+    --border-color: #fcfcfc8F;
     --border-radius: 19px;
     --border-top-left-radius: 19px;
     --border-top-right-radius: 19px;
@@ -9375,8 +9375,8 @@
     --border-width-right: 1px;
     --border-width-bottom: 1px;
     --border-width-left: 1px;
-    border-color: #4BE2F28F;
-    --border-color: #4BE2F28F;
+    border-color: #fcfcfc8F;
+    --border-color: #fcfcfc8F;
     --border-radius: 19px;
     --border-top-left-radius: 19px;
     --border-top-right-radius: 19px;
